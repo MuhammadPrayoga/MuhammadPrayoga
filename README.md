@@ -8,6 +8,10 @@
 Muhammad Prayoga</a></h1>
 <h3 align="center">An Informatics Engineering Student</h3>
 
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=MuhammadPrayoga&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadPrayoga" /> 
+</p>
+
 <hr>
 
 - 👋 Hi, I’m @MuhammadPrayoga
@@ -22,8 +26,8 @@ Muhammad Prayoga</a></h1>
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MuhammadPrayoga&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadPrayoga&theme=tokyonight&hide_border=true" /><br>
+<!--   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MuhammadPrayoga&show_icons=true&theme=tokyonight&hide_border=true" /> -->
+<!--   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadPrayoga&theme=tokyonight&hide_border=true" /><br> -->
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadPrayoga&langs_count=10&theme=tokyonight&layout=compact&hide_border=true" />  
   </a>
 </p>
