@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Muhammad Prayoga</a></h1>
-<h3 align="center">An Informatics Engineering Student</h3>
+<!-- <h3 align="center">An Informatics Engineering Student</h3> -->
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=MuhammadPrayoga&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadPrayoga" /> 
@@ -14,7 +14,7 @@ Muhammad Prayoga</a></h1>
 
 <hr>
 
-- 👋 Hi, I’m @MuhammadPrayoga
+- 👋 Hi, I’m Muhammad Prayoga
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Python
 - ⚡ Fun fact: I love Korean Drama
